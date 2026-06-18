@@ -25,7 +25,7 @@ A list of pages that are either not done, or still need additional work.
     - [ ] [Taskmaster](locations/taskmaster.md) (Jeremy)
     - [x] ? [Warehouse](locations/warehouse.md) (Razvii)
     - [ ] [Smeltery](locations/smeltery.md) (Jeremy)
-    - [ ] [Great Southwestern Railway](locations/southernRailway.md)
+    - [x] [Great Southwestern Railway](locations/greatSouthwesternRailway.md)
     - [ ] [New Workshop + old workshop](locations/southWorkshop.md)
     - [ ] [Big Chicken](locations/bigChicken.md)
     - [ ] [SK Sushi](locations/sleepyKitten.md)
